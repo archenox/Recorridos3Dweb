@@ -55,8 +55,8 @@ tours3d/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tours3d.git
-cd tours3d
+git clone https://gitea.adsr64.qzz.io/archenox/Recorridos3Dweb/settings
+cd Recorridos3Dweb
 ```
 
 ### 2. Install dependencies
