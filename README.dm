@@ -314,4 +314,7 @@ The MVP covers the first 4 weeks. Everything below comes later, only if users as
 
 ## License
 
-MIT
+Copyright (c) 2026 Archenox. All rights reserved.
+
+This source code is private and confidential.
+Unauthorized copying, distribution, or use of this code is strictly prohibited.
